@@ -1,5 +1,5 @@
-##AI Skunkworks website
+# AI Skunkworks website
 
-## Trello Link: TBD ( Should on per invite basis )
+# Trello Link: TBD ( Should on per invite basis )
 
-## Content: Sharepoint 
+# Content: Sharepoint 
