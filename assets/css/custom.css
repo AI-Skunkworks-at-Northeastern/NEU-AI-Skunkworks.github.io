@@ -1,0 +1,23 @@
+
+.photos-head{
+    width: 15%;
+    height: 15%;
+    margin-right: 5%;
+}
+.profile-card{
+    display: flex;
+   
+}
+.title-page{
+    font-size: 70px;
+}
+.testimonial-text{
+    color: orange;
+}
+.designation{
+    color:cadetblue
+}
+.name-align{
+    text-align: center;
+}
+
