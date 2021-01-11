@@ -20,4 +20,12 @@
 .name-align{
     text-align: center;
 }
-
+.husky-starter-images{
+   max-width: 50vh;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+   
+   
+  
+}
