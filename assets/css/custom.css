@@ -25,7 +25,10 @@
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-   
-   
-  
+}
+.highlight{
+    color: orange;
+}
+.links{
+    color: cornflowerblue;
 }
