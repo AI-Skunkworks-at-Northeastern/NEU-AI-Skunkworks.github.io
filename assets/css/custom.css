@@ -1,26 +1,78 @@
+.research-container{
+    margin-left: -40px;
+}
+.profile-icon{
+    height: 150px;
+    width: auto;
+}
+.content-adjust-main{
+    margin-left: 45px;
+}
+.photos-adjust-profile-2{
+    height: 150px;
+    width: auto;
+    margin-left: 33px;
+}
+.photos-adjust-profile-3{
+    height: 150px;
+    width: auto;
+    margin-left: 20px;
+}
+.content-adjust-2{
+    margin-left: 35px;
+}
+.content-adjust-3{
+    margin-left: 15px;
+}
+.pronouns{
+    color: black;
+    font-size: 15px;
+}
+.photos-adjust-1{
+    height: 150px;
+    width: auto;
+}
+.photos-adjust-2{
+    height: 150px;
+    width: auto;
+    margin-left: 20px;
+}
+.profile-card-manage{
+    display: flex;
+    flex-flow: column;
+}
+.adjust-text-research-members{
+    margin-left: 50px;
+}
+.adjust-another-research-member-fix{
+    margin-left: 80px;
+}
 
 .photos-head{
-    width: 15%;
-    height: 15%;
+    width: 150px;
+    height: 150px; 
     margin-right: 5%;
+   
 }
 .profile-card{
-    display: flex;
-   
+       display: flex;
 }
 .title-page{
     font-size: 70px;
 }
 .testimonial-text{
-    color: orange;
+   
+    color: #f70000;
 }
 .designation{
-    color:cadetblue
+    color:cadetblue;
+    font-size: 20px;
 }
 .name-align{
     text-align: center;
 }
 .husky-starter-images{
+  
    max-width: 50vh;
     position: relative;
     left: 50%;

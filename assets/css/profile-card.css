@@ -138,3 +138,12 @@
         flex-grow: 0.7;
     }
 }
+.profile-image-set{
+    height: 100px;
+    width: auto;
+    margin: 10px;
+   
+}
+.profile-image-set-fix{
+    margin-top: 25px;
+}
